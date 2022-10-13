@@ -1,4 +1,4 @@
-name: skeleton
+name: skeleton # TODO fill in the project name and description
 description: A new Flutter project.
 
 publish_to: 'none'

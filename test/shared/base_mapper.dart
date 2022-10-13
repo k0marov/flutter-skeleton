@@ -1,8 +1,8 @@
 import 'dart:convert';
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:skeleton/logic/core/entity/network_use_case_factory.dart';
 
+import '../../lib/logic/core/entity/network_use_case_factory.dart';
 import 'fixture_reader.dart';
 
 void baseOutMapperTest<Entity>({
