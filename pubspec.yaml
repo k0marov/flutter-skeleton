@@ -35,6 +35,5 @@ flutter_icons:
   image_path: "assets/logo_square_big.png"
 flutter:
   uses-material-design: true
-  assets:
-    - assets/logo_square_big.png # TODO: add the logo_square_big.png asset file
+  #TODO: add the 'logo_square_big.png' asset file
 
